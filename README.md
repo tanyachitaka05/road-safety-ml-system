@@ -73,9 +73,13 @@ Medium/High risk state -> Speed_Cameras
 The agent's Q-values converged rapidly within ~100 episodes, stabilising near the maximum reward value of 100.
 
 ![Confusion Matrix](visuals/Confusion_matrix_random_forrest.png)
+
 ![Confusion Matrix](visuals/Confusion_matrix_XGBoost.png).
+
 ![Model Results](visuals/model_results.png).
+
 ![Q-Learning Convergence](visuals/Q-Learning_convergence_graph.png).
+
 ![Policy Evaluation Table](visuals/Policy_evaluation_table.png).
 
 
